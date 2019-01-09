@@ -1,5 +1,5 @@
 public class tema {
     public static void main(String[] args) {
-        System.out.println("tema!!!");
+        System.out.println("tema!!!000000");
     }
 }
