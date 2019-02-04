@@ -34,7 +34,7 @@ public class Main {
     */
 
     }
-    private static int getMax (int firstNum, int secondNum){
+    public static  int getMax(int firstNum, int secondNum){
        int max = firstNum;
         if ( secondNum > max){
            max = secondNum;
