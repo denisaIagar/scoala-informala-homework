@@ -2,6 +2,7 @@
  * in this application we have to use stream and lambda expression to read a csv file,
  * target a month in the file from user,
  * and write back another csv file with the name alphabetically for the matches which have the birthday on a month indicated
+ * @author Iagar Denisa
  */
 
 import java.io.BufferedWriter;
